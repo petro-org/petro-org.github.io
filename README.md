@@ -8,7 +8,7 @@ En el marco de las políticas para fortalecer la soberanía monetaria y promover
 
 El Petro será el fundamento de una política de desarrollos, creación de infraestructura tecnológica y formación de jóvenes en las áreas minería electrónica, programación, criptografía, seguridad de redes y economía 4.0, que permitirá aprovechar el valor de los activos más valiosos de Venezuela y los países en desarrollo en un nuevo mundo de mercados transparentes, desconcentrados y libres de manipulaciones, todo gracias a la tecnología.
 
-#Respaldo de PETRO (extraído de la Hoja Técnica)
+# Respaldo de PETRO (extraído de la Hoja Técnica)
 
 El aporte más importante del PETRO al mercado de los criptoactivos y la nueva economía digital será el respaldo ofrecido por un Estado soberano. 
 
